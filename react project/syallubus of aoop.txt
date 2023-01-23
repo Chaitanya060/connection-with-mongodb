@@ -1,0 +1,8 @@
+1) factory
+2)singleton
+abstract factory
+adaptor
+facede
+j unit
+chain of responmsiabiltiy
+clean coding

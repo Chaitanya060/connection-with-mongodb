@@ -1,0 +1,2 @@
+Interger[] a = new 
+List<Interger> a12 = Arrays.hasList();
